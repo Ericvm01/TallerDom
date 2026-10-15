@@ -1,0 +1,14 @@
+/* Ejercicio 5: color y letra cursiva */
+.titulo-estilo {
+    color: darkorange;
+    font-style: italic;
+}
+
+/* Ejercicio 6: estados de los items */
+.cumplido {
+    background-color: green;
+}
+
+.fallido {
+    background-color: red;
+}
